@@ -50,6 +50,10 @@
       "description": "Protect contents from getting forwarded",
       "value": "False",
       "required": false
+    },
+    "DATABASE_URL": {
+      "description": "Masukan db dari sql",
+      "value": "0"
     }
   },
   "addons": [
